@@ -1,0 +1,170 @@
+Devfolio - A Front_End portfolio
+
+This is a personal portfolio made by codewithsadee
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?0D57B5302506A6B1FDEE09DD05B6322C0EFE
+
+
+
+#---------- HEADER ----------#
+
+alt = devfolio
+
+<span class="material-symbols-outlined dark" aria-hidden="true"> dark_mode </span>
+
+<span class="material-symbols-outlined light" aria-hidden="true"> light_mode </span>
+
+
+
+#---------- HERO ----------#
+
+alt = Omar Salah
+
+Front-End Developer
+
+Omar Salah
+
+Lorem ipsum dolor sit amet consectetur. Quam ut feugiat ut porta morbi lobortis tristique.
+
+<span class="material-symbols-outlined" aria-hidden="true"> mail </span>
+omarsala7h7@gmail.com
+
+<span class="material-symbols-outlined" aria-hidden="true"> call </span>
++2012345678901
+
+
+
+#---------- ABOUT CARD ----------#
+
+About
+
+A passionate front-end developer with a basic computer science background.
+
+<span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
+Giza, Egypt
+
+<span class="material-symbols-outlined" aria-hidden="true"> work </span>
+freelancer
+
+<span class="material-symbols-outlined" aria-hidden="true"> captive_portal </span>
+https://example.com
+
+
+
+#---------- PRIMARY TAB ----------#
+
+Projects
+
+Resume
+
+Contact
+
+
+
+#---------- PROJECT ----------#
+
+alt = Pixstock - Stock Media App
+
+Web App
+Pixstock - Stock Media App
+
+alt = Cook.io - Recipe App
+
+Web App
+Cook.io - Recipe App
+
+alt = GitFinder - Github User Finder
+
+Web App
+GitFinder - Github User Finder
+
+alt = Weatherio - Live Weather App
+
+Web App
+Weatherio - Live Weather App
+
+alt = Tvflix - Netflix Clone 2.0
+
+Web App
+Tvflix - Netflix Clone 2.0
+
+alt = Travelia - Travel Website
+
+Website
+Travelia - Travel Website
+
+
+
+#---------- RESUME ----------#
+
+Experience
+
+Front-End Developer, freelancer
+2024 - Present
+
+I have implemented several projects such as portfolio and e-commerce.
+
+Front-End Developer Intern
+2024 - Present
+
+Assisted in the development website.
+
+Education
+
+CS50 Certification 2024 (CS50 Certification)
+Learned HTML, CSS, and JavaScript (Elzero Web)
+2024
+
+Relevant Coursework: Data Structures, Algorithms, Database Management
+2014 - 2013
+
+Bachelor of Science in Computer Science, Alexandria University
+2010 - 2014
+
+Skills and Technologies
+
+HTML5
+CSS3
+JavaScript
+GitHub
+VS Code
+
+
+
+
+#---------- CONTACT ----------#
+
+Contact Info
+
+<span class="material-symbols-outlined" aria-hidden="true"> mail </span>
+
+Mail Us
+omarsala7h7@gmail.com
+
+<span class="material-symbols-outlined" aria-hidden="true"> call </span>
+
+Contact Us
++20123567890
+
+<span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
+
+Address
+Giza, Egypt
+
+Social Info
+
+Let’s Work Together.
+
+Name*
+Email*
+Subject*
+Message*
+
+Send Message
+
+
+
+
+#---------- FOOTER ----------#
+
+Copyright 2025. All right reserved by Moro
